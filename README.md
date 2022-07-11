@@ -12,7 +12,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Aba Emissão*
  
- **c.Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ **c. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
  **d. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
@@ -22,9 +22,22 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **g. Prioridade:**
  
- **h.Desliga:**
+ **h. Desliga:**
  
  *Imagem*
+ 
+ ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
+ 
+ ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
+ 
+ ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
+ 
+ ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
+
  
  
  ![Painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/3.PNG)
@@ -63,3 +76,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/BOTAO_PDF.PNG)
  ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/BOTAO_XLS.PNG)
  ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/SEPARADOR_LINHAS.PNG)
+ 
+ 
+ 
+ ![]()
