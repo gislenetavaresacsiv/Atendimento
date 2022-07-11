@@ -6,23 +6,23 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ![Emissão](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/2.PNG)
  
- **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
+ **Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
  
- **b.Cartório:** Nome do cartório.
+ **Cartório:** Nome do cartório.
  
  *Aba Emissão*
  
- **c. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ **a. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
- **d. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ **b. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
- **e. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
+ **c. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
  
- **f. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
+ **d. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
  
- **g. Prioridade:**
+ **e. Prioridade:**
  
- **h. Desliga:**
+ **f. Desliga:**
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG)
  
@@ -44,7 +44,47 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ![Painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/3.PNG)
  
+ *Painel*
+ 
+ **a. Senha atual:**
+ **b. Senhas ant.:**
+ **c. Posição logo:**
+ **d. Tipo logo:**
+ **e. Desliga:**
+ **f. Projeção:**
+ 
+  *Imagem*
+ 
+ ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
+ 
+ ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
+ 
+ ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
+ 
+ ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
+
+ **g. GED Slides:**
+ 
  ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
+ 
+ *Cores*
+ 
+ **Botão Voltar**
+ *Cor letra:*
+ *Cor fundo:*
+ 
+ **Textos**
+ 
+ *Cor 1:*
+ 
+ *Cor 2:*
+
+ 
+ 
  
  ### 2. Chamar senha
  
