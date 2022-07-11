@@ -46,12 +46,12 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Painel*
  
- **a. Senha atual:**
- **b. Senhas ant.:**
- **c. Posição logo:**
- **d. Tipo logo:**
- **e. Desliga:**
- **f. Projeção:**
+ **a.** Senha atual:
+ **b.** Senhas ant.:
+ **c.** Posição logo:
+ **d.** Tipo logo:
+ **e. **Desliga:
+ **f.** Projeção:
  
   *Imagem*
  
