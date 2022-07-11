@@ -3,7 +3,30 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
  ### 1. Configurações
+ 
  ![Emissão](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/2.PNG)
+ 
+ **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
+ 
+ **b.Cartório:** Nome do cartório.
+ 
+ *Aba Emissão*
+ 
+ **c.Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ 
+ **d. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ 
+ **e. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
+ 
+ **f. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
+ 
+ **g. Prioridade:**
+ 
+ **h.Desliga:**
+ 
+ *Imagem*
+ 
+ 
  ![Painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/3.PNG)
  ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
  ### 2. Chamar senha
@@ -25,6 +48,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  ![listagem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/EMISSAO_LISTAGEM.PNG)
  ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/VISUALIZAR_LISTAGEM.png)
  ### 6. Monitoramento de senhas
+ O Monitoramento de senhas acompanha todas as senhas emitidas no Acsiv, demonstradas no [3. Emissão de senhas](#emissao).
  ![monitoramento](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/1.PNG)
  ### 7. Painel de senhas
  ![painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/PAINEL_SENHAS/PAINEL_SENHAS.png)
