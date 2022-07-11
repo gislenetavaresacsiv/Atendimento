@@ -24,6 +24,8 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **h. Desliga:**
  
+ ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG)
+ 
  *Imagem*
  
  ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
