@@ -133,14 +133,23 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  ![grupos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/1.PNG)
  
  **a. Código:**
+ 
  **b. Conta:**
+ 
  **c: Descrição:**
+ 
  **d. Letra:**
+ 
  **e. Conta superior:**
+ 
  **f. Local:**
+ 
  **g. Painel:**
+ 
  **h. Mensagem:**
+ 
  **i. Cor da letra:**
+ 
  **Cor de fundo:**
  
  
@@ -168,11 +177,25 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ![tipos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS_SENHAS.PNG)
  
+ **a. Código:**
+ **b. Descrição:**
+ **c. Letra:**
+ **d. Local:**
+ **e. Ordem:**
+ **f. Prioridade:**
+ **g. Cor da letra:**
+ **h. Cor de fundo:**
+ 
  ![tiposvisu](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS%20DE%20SENHA.PNG)
  
  ### 9. Relatórios
  
  ![indicadores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/1.PNG)
+ 
+ **a. Dt. inicial:**
+ **b. Dt. final:**
+ **c. Agrupar por:**
+ **d. Relatório:**
  
  ![agrupar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/2.png)
  
