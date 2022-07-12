@@ -12,17 +12,17 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Aba Emissão*
  
- **a.** Tipo: Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ **a. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
- **b.** Modelo: Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ **b. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
- **c.** Cabeçalho: Possível definir a frase que será apresentada no seu cabeçalho.
+ **c. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
  
- **d.** Rodapé: Possível definir a frase que será apresentada no seu rodapé.
+ **d. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
  
- **e.** Prioridade:
+ **e. Prioridade:**
  
- **f.** Desliga:
+ **f. Desliga:**
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG)
  
@@ -46,17 +46,17 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Painel*
  
- **a.** Senha atual:
+ **a. Senha atual:**
  
- **b.** Senhas ant.:
+ **b. Senhas ant.:**
  
- **c.** Posição logo:
+ **c. Posição logo:**
  
- **d.** Tipo logo:
+ **d. Tipo logo:**
  
- **e.** Desliga:
+ **e. Desliga:**
  
- **f.** Projeção:
+ **f. Projeção:**
  
   *Imagem*
  
@@ -73,6 +73,8 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
 
  **g. GED Slides:**
+ 
+ 
  
  ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
  
@@ -126,9 +128,25 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ### 5. Grupos de senhas 
  
+ 
+ 
  ![grupos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/1.PNG)
  
+ **a. Código:**
+ **b. Conta:**
+ **c: Descrição:**
+ **d. Letra:**
+ **e. Conta superior:**
+ **f. Local:**
+ **g. Painel:**
+ **h. Mensagem:**
+ **i. Cor da letra:**
+ **Cor de fundo:**
+ 
+ 
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
+ 
+ 
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/BOTAO_TRANSFERIR.PNG)
  
