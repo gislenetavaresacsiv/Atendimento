@@ -47,10 +47,15 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  *Painel*
  
  **a.** Senha atual:
+ 
  **b.** Senhas ant.:
+ 
  **c.** Posição logo:
+ 
  **d.** Tipo logo:
- **e. **Desliga:
+ 
+ **e.**Desliga:
+ 
  **f.** Projeção:
  
   *Imagem*
@@ -74,6 +79,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  *Cores*
  
  **Botão Voltar**
+ 
  *Cor letra:*
  *Cor fundo:*
  
@@ -88,13 +94,21 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ### 2. Chamar senha
  
+ 
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
+ 
+ 
  
  ![nopainel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/3.png)
  
+ 
+ 
  ![confirmar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/5.PNG)
  
+ 
+ 
  ### 3. Emissão de senhas
+ 
  
  ![retirarasenha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/1.PNG)
  
