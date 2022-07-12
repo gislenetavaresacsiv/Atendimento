@@ -12,17 +12,17 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Aba Emissão*
  
- **a. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ **a.** Tipo: Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
- **b. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ **b.** Modelo: Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
- **c. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
+ **c.** Cabeçalho: Possível definir a frase que será apresentada no seu cabeçalho.
  
- **d. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
+ **d.** Rodapé: Possível definir a frase que será apresentada no seu rodapé.
  
- **e. Prioridade:**
+ **e.** Prioridade:
  
- **f. Desliga:**
+ **f.** Desliga:
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG)
  
@@ -54,7 +54,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **d.** Tipo logo:
  
- **e.**Desliga:
+ **e.** Desliga:
  
  **f.** Projeção:
  
