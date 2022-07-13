@@ -2,9 +2,13 @@
 Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
+ 
  ### 1. Configurações
  
+ 
+ 
  ![Emissão](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/2.PNG)
+ 
  
  **Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
  
@@ -24,41 +28,60 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **f. Desliga:**
  
- ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG)
+ ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG) 
+ 
+  Exibe o cursor do mouse na tela painel de senhas.
  
  *Imagem*
  
+  É possível colocar imagem para aparecer de fundo na tela de *Emissão de senhas.*
+  
+ 
  ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
+ 
+ Localiza imagem salva em uma pasta do computador.
  
  ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
  
+ É possível capturar uma imagem, caso a câmera esteja configurado no sistema.
+ 
  ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ É possível digitalizar uma imagem que esteja dentro da sua scanner, caso a mesma já esteja configurado no sistema.
  
  ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
  
+ É possível colar imagem da área de transferência (Botão invertido para capturar imagem).
+ 
  ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
+ 
+ Visualiza a imagem.
  
  ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
 
+ Cancela a imagem escolhida.
+ 
  
  
  ![Painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/3.PNG)
  
  *Painel*
  
- **a. Senha atual:**
+ **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **b. Senhas ant.:**
+ **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas ant. apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **c. Posição logo:**
+ **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição logo apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **d. Tipo logo:**
+ **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo logo apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
  **e. Desliga:**
  
  **f. Projeção:**
  
   *Imagem*
+  
+   É possível colocar imagem para aparecer de fundo na tela *Painel de senhas*.
  
  ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
  
@@ -71,8 +94,9 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
  ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
+ 
 
- **g. GED Slides:**
+ **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas.*
  
  
  
