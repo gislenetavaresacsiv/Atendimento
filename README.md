@@ -161,23 +161,24 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  Emissão de senhas é utilizado por cartórios que possuam totem de atendimento ou um computador integrado ao Acsiv. 
  
- Possível retirar a senha entre os *Tipos de senhas*, para receber o atendimento como imagens a seguir:
+ Possível retirar a senha entre os *Tipos de senhas* como imagens a seguir:
  
  
  ![retirarasenha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/1.PNG)
  
- Nesse exemplo utilizamos o *Tipos de senhas NORMAL*.
+ Nesse exemplo foi utilizado o *Tipos de senhas NORMAL*.
  
  
  ![voltar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/2.PNG)
  
  
- Ao selecionar o *Tipos de senha NORMAL* será apresentado o menu como imagem a seguir:
+ Ao selecionar o *Tipos de senha NORMAL* será apresentado o menu conforme imagem abaixo:
  
  
  
  ![selecionado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/3.PNG)
  
+ Depois de escolher a senha, a mesma será impressa como demonstrado a seguir:
  
  
  ![imprimindo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/4.png)
@@ -186,9 +187,18 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  ### 4. Encerrar senhas
  
+ 
+ Utilizado para encerrar senhas, basta preencher o campo com a senha que será encerrada.
+ 
+ 
  ![encerrar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/ENCERRAR_SENHAS/1.PNG)
  
+ 
+ Após utilizar o botão encerrar, a senha será encerrada com sucesso.
+ 
+ 
  ![encerrada](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/ENCERRAR_SENHAS/2.PNG)
+ 
  
  ### 5. Grupos de senhas 
  
