@@ -81,39 +81,34 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
   *Imagem*
   
-   É possível colocar imagem para aparecer de fundo na tela *Painel de senhas*.
+   É possível colocar imagem conforme demonstrado na *Aba Emissão* para aparecer de fundo na tela *Painel de senhas*.
+  
  
- ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
  
- ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
+  **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas.*
  
- ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
- ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
- 
- ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
- 
- ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
- 
-
- **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas.*
  
  
  
  ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
  
+ 
+ 
  *Cores*
+ 
+ Configurações de cores da tela *Emissão de senhas*.
  
  **Botão Voltar**
  
- *Cor letra:*
- *Cor fundo:*
+ *Cor letra:* Cor da letra apresentada no botão voltar.
+ *Cor fundo:* Cor do fundo do botão voltar.
  
  **Textos**
  
- *Cor 1:*
+ *Cor 1:* Cor do texto apresentado na parte superior da tela - *RETIRE SUA SENHA*.
  
- *Cor 2:*
+ *Cor 2:* Cor do texto apresentado na parte inferior da tela - *Desenvolvido por Acsiv Sistemas*.
 
  
  
