@@ -204,6 +204,7 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  
  
+ 
  ![grupos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/1.PNG)
  
  **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
