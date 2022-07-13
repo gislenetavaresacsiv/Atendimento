@@ -1,6 +1,6 @@
 # Atendimento
 
-Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.
+*Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.*
 
 O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter uma métrica dos indicadores de desempenho dos funcionários.
 
@@ -24,13 +24,15 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  **b. Modelo:** Selecione entre os dois modelos de snha *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
- **c. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
+ **c. N° cópias:** Define o número de cópias que será impresso a senha.
  
- **d. Rodapé:** Possível definir a frase que será apresentada no seu rodapé.
+ **d. Cabeçalho:** Possível definir a frase que será apresentada no cabeçalho da senha.
  
- **e. Prioridade:**
+ **e. Rodapé:** Possível definir a frase que será apresentada no rodapé da senha.
  
- **f. Desliga:**
+ **f. Prioridade:**
+ 
+ **g. Desliga:**
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG) 
  
@@ -51,11 +53,11 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
- É possível digitalizar uma imagem que esteja dentro da sua scanner, caso a mesma já esteja configurado no sistema.
+ É possível digitalizar uma imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
  
  ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
  
- É possível colar imagem da área de transferência (Botão invertido para capturar imagem).
+ É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
  
  ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
@@ -73,15 +75,15 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentadas no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição logo apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo logo apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
  **e. Desliga:**
  
- **f. Projeção:**
+ **f. Projeção:** utilizado para definir o left da tela.
  
   *Imagem*
   
@@ -101,22 +103,23 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  *Cores*
  
- Configurações de cores da tela *Emissão de senhas*.
+ Utilizado para configurações de cores da tela *Emissão de senhas*.
  
  **Botão Voltar**
  
  *Cor letra:* Cor da letra apresentada no botão voltar.
+ 
  *Cor fundo:* Cor do fundo do botão voltar.
  
  **Textos**
  
- *Cor 1:* Cor do texto apresentado na parte superior da tela - *RETIRE SUA SENHA*.
+ *Cor 1:* Cor do texto apresentado na parte superior da tela **Ex.:** *RETIRE SUA SENHA*.
  
- *Cor 2:* Cor do texto apresentado na parte inferior da tela - *Desenvolvido por Acsiv Sistemas*.
+ *Cor 2:* Cor do texto apresentado na parte inferior da tela **Ex.:** *Desenvolvido por Acsiv Sistemas*.
 
  *Monitoramento*
  
- Aba utilizada pelo nosso suporte técnico para monitoramento.
+ Aba utilizada pelo nosso suporte técnico para monitoramento do painel.
  
  
  ### 2. Chamar senha
