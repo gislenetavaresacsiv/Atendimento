@@ -83,7 +83,7 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  **e. Desliga:**
  
- **f. Projeção:** utilizado para definir o left da tela.
+ **f. Projeção:** Utilizado para definir o left da tela.
  
   *Imagem*
   
@@ -125,9 +125,17 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  ### 2. Chamar senha
  
  
+ Botão Chamar, é utilizado para chamar senha retirada pelo cliente na tela emissão de senhas *(Senha retirada via impressora de senha ou totem de atendimento).* 
+ 
+ O botão chamar, pode ser utilizado pelo *(Menu Atendimento > Chamar senha ou pelo Menu Notas > Balcão de notas pelas opções (chamar próxima senha ou chamar senha específica).*
+ 
+ 
+ 
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
  
- Botão Chamar, é utilizado para chamar senha retirada pelo cliente na 
+ 
+ 
+ 
  
  ![nopainel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/3.png)
  
