@@ -18,7 +18,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **a. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
- **b. Modelo:** Selecione entre os dois modelos *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ **b. Modelo:** Selecione entre os dois modelos de snha *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
  **c. Cabeçalho:** Possível definir a frase que será apresentada no seu cabeçalho.
  
@@ -30,7 +30,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG) 
  
-  Exibe o cursor do mouse na tela painel de senhas.
+  Exibe o cursor do mouse na tela *Painel de senhas*.
  
  *Imagem*
  
@@ -110,7 +110,9 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  *Cor 2:* Cor do texto apresentado na parte inferior da tela - *Desenvolvido por Acsiv Sistemas*.
 
+ *Monitoramento*
  
+ Aba utilizada pelo nosso suporte técnico para monitoramento.
  
  
  ### 2. Chamar senha
@@ -118,7 +120,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
  
- 
+ Botão Chamar, é utilizado para chamar senha retirada pelo cliente na 
  
  ![nopainel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/3.png)
  
