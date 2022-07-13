@@ -206,19 +206,19 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  ![grupos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/1.PNG)
  
- **a. Código:**
+ **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
  
- **b. Conta:**
+ **b. Conta:** Conta gerada automaticamente pelo sistema, mas poderá ser alterada.
  
- **c: Descrição:**
+ **c: Descrição:** Possível preencher a descrição do grupo de senhas. **Ex.:** *Autenticação.*
  
- **d. Letra:**
+ **d. Letra:** Letra demonstrada na senha impressa. **Ex.:** *A.*
  
- **e. Conta superior:**
+ **e. Conta superior:** Conta superior do grupo de senhas que está sendo criado.
  
- **f. Local:**
+ **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** Guichê e Mesas, pode ser configurado como G1; M1;
  
- **g. Painel:**
+ **g. Painel:** 
  
  **h. Mensagem:**
  
