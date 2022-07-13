@@ -134,7 +134,7 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
  
  
- Ao selecionar o botão chamar senha, será apresentado no painel de senhas o número da senha e o guichê para o cliente se derecionar até ele.
+ Ao selecionar o botão chamar senha, será apresentado no painel de senhas o número da senha e o guichê para o cliente direcionar até ele.
  
  
  
@@ -159,14 +159,30 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  ### 3. Emissão de senhas
  
+ Emissão de senhas é utilizado por cartórios que possuam totem de atendimento ou um computador integrado ao Acsiv. 
+ 
+ Possível retirar a senha entre os *Tipos de senhas*, para receber o atendimento como imagens a seguir:
+ 
  
  ![retirarasenha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/1.PNG)
  
+ Nesse exemplo utilizamos o *Tipos de senhas NORMAL*.
+ 
+ 
  ![voltar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/2.PNG)
+ 
+ 
+ Ao selecionar o *Tipos de senha NORMAL* será apresentado o menu como imagem a seguir:
+ 
+ 
  
  ![selecionado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/3.PNG)
  
+ 
+ 
  ![imprimindo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/4.png)
+ 
+ 
  
  ### 4. Encerrar senhas
  
