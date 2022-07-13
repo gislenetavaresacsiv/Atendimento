@@ -127,21 +127,33 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  Botão Chamar, é utilizado para chamar senha retirada pelo cliente na tela emissão de senhas *(Senha retirada via impressora de senha ou totem de atendimento).* 
  
- O botão chamar, pode ser utilizado pelo *(Menu Atendimento > Chamar senha ou pelo Menu Notas > Balcão de notas pelas opções (chamar próxima senha ou chamar senha específica).*
+ O botão chamar, pode ser utilizado pelo *(Menu Atendimento > Chamar senha)  ou pelo (Menu Notas > Balcão de notas pelas opções - chamar próxima senha ou chamar senha específica).*
  
  
- 
+
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
  
  
+ Ao selecionar o botão chamar senha, será apresentado no painel de senhas o número da senha e o guichê para o cliente se derecionar até ele.
  
  
  
  ![nopainel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/3.png)
  
  
+
  
  ![confirmar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/5.PNG)
+ 
+ 
+  O Funcionário tem 3 opções para selecionar *(Confirmar, repetir ou cancelar).*
+ 
+ * *Confirmar:* Confirma a senha e inicia o atendimento.
+
+ * *Repetir:* Possível chamar a senha novamente no painel, caso o cliente não tenha sido direcionado para o guichê.
+
+ * *Cancelar:* Cancela a senha chamada.
+ 
  
  
  
