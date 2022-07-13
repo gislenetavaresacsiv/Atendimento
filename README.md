@@ -1,5 +1,9 @@
 # Atendimento
+
 Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.
+
+O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter uma métrica dos indicadores de desempenho dos funcionários.
+
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
  
@@ -69,7 +73,7 @@ Caso o cartório trabalhe com controle de senhas através de dispensador manual,
  
  **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas ant. apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
  **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição logo apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
