@@ -246,6 +246,8 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  ### 7. Painel de senhas
  
+ O Painel de senha mostra a senha chamada pelo funcionário no monitor para o cliente.
+ 
  ![painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/PAINEL_SENHAS/PAINEL_SENHAS.png)
  
  ### 8. Tipos de senhas
