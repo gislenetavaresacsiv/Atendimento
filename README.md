@@ -2,7 +2,7 @@
 
 *Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.*
 
-O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter uma métrica dos indicadores de desempenho dos funcionários.
+O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicadores de desempenho dos funcionários.
 
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
@@ -34,7 +34,7 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  **g. Desliga:**
  
- ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/EXIBIR_CURSOR.PNG) 
+ ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/EXIBIR_CURSOR.PNG) 
  
   Exibe o cursor do mouse na tela *Painel de senhas*.
  
@@ -116,6 +116,10 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  *Cor 1:* Cor do texto apresentado na parte superior da tela **Ex.:** *RETIRE SUA SENHA*.
  
  *Cor 2:* Cor do texto apresentado na parte inferior da tela **Ex.:** *Desenvolvido por Acsiv Sistemas*.
+ 
+ ![manter](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/MANTER_TEMA_WINDOWS.PNG)
+ 
+ Mantém o tema do windows como cor.
 
  *Monitoramento*
  
@@ -134,7 +138,7 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/1.PNG)
  
  
- Ao selecionar o botão chamar senha, será apresentado no painel de senhas o número da senha e o guichê para o cliente direcionar até ele.
+  Ao selecionar o botão chamar senha, será apresentado no painel de senhas o número da senha e o guichê para o cliente direcionar até ele.
  
  
  
@@ -142,11 +146,13 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  
 
+ O Funcionário tem 3 opções para selecionar *(Confirmar, repetir ou cancelar).*
+ 
  
  ![confirmar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHAMAR_SENHA/5.PNG)
  
  
-  O Funcionário tem 3 opções para selecionar *(Confirmar, repetir ou cancelar).*
+  
  
  * *Confirmar:* Confirma a senha e inicia o atendimento.
 
@@ -161,28 +167,35 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  Emissão de senhas é utilizado por cartórios que possuam totem de atendimento ou um computador integrado ao Acsiv. 
  
- Possível retirar a senha entre os *Tipos de senhas* como imagens a seguir:
+ Possível retirar a senha entre os *Tipos de senhas* (Tipos de senhas são criados pelo Menu Atendimento > Tipos de senhas) como imagem a seguir:
  
  
  ![retirarasenha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/1.PNG)
  
- Nesse exemplo foi utilizado o *Tipos de senhas NORMAL*.
+ Nesse exemplo foi escolhido o *Tipos de senhas - NORMAL*.
  
  
  ![voltar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/2.PNG)
  
  
- Ao selecionar o *Tipos de senha NORMAL* será apresentado o menu conforme imagem abaixo:
+ Ao selecionar o *Tipos de senha NORMAL* será apresentado o grupo de senhas (Menu Atendimento > Grupos de senhas) conforme imagem abaixo:
  
  
  
  ![selecionado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/3.PNG)
+ 
  
  Depois de escolher a senha, a mesma será impressa como demonstrado a seguir:
  
  
  ![imprimindo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/4.png)
  
+ 
+ Senha impressa pela impressora:
+ 
+ 
+ 
+  ![senha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/EMISS%C3%83O_SENHAS/5.png)
  
  
  ### 4. Encerrar senhas
@@ -191,7 +204,9 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  Utilizado para encerrar senhas, basta preencher o campo com a senha que será encerrada.
  
  
+ 
  ![encerrar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/ENCERRAR_SENHAS/1.PNG)
+ 
  
  
  Após utilizar o botão encerrar, a senha será encerrada com sucesso.
@@ -209,17 +224,17 @@ O Atendimento é o módulo pelo qual gerencia filas e auxilia o cartório ter um
  
  **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
  
- **b. Conta:** Conta gerada automaticamente pelo sistema, mas poderá ser alterada.
+ **b. Conta:** Número da conta gerado automaticamente pelo sistema, mas poderá ser alterado.
  
- **c: Descrição:** Possível preencher a descrição do grupo de senhas. **Ex.:** *Autenticação.*
+ **c: Descrição:** Informe o nome do grupo a ser criado. **Ex.:** *Autenticação.*
  
  **d. Letra:** Letra demonstrada na senha impressa. **Ex.:** *A.*
  
- **e. Conta superior:** Conta superior do grupo de senhas que está sendo criado.
+ **e. Conta superior:** Conta superior do grupo de senhas que foi criado.
  
- **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** Guichê e Mesas, pode ser configurado como G1; M1;
+ **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1;)
  
- **g. Painel:** 
+ **g. Painel:** Utilizado quando o cartório trabalha com mais de um caixa e tenha painéis específicos para cada caixa chamar senhas. 
  
  **h. Mensagem:**
  
