@@ -28,7 +28,7 @@ O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicado
  
  **d. Cabeçalho:** Possível definir a frase que será apresentada no cabeçalho da senha.
  
- **e. Rodapé:** Possível definir a frase que será apresentada no rodapé da senha.
+ **e. Rodapé:** Possível definir uma mensagem padrão, que será apresentada no rodapé da senha impressa.
  
  **f. Prioridade:**
  
@@ -234,9 +234,9 @@ O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicado
  
  **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1;)
  
- **g. Painel:** Utilizado quando o cartório trabalha com mais de um caixa e tenha painéis específicos para cada caixa chamar senhas. 
+ **g. Painel:** Utilizado quando o cartório trabalha com mais de um caixa e tenha painéis específicos para cada caixa chamar senhas por serviços, diminuindo filas no cartório. 
  
- **h. Mensagem:**
+ **h. Mensagem:** Possível escrever mensagem para aparecer no final da senha impressa, essa mensagem pode ser individualizada por serviço. **Ex.:** Cartório que trabalha com site, aparecer a seguinte mensagem no rodapé quando a pessoa escolher um serviço como reconhecimento de firma e não tenha cartão de assinatura no cartório ainda. *Mensagem:* Adiante o serviço realizando o pré-cadastro no nosso sistema online, acesse o link abaixo.
  
  **i. Cor da letra:**
  
