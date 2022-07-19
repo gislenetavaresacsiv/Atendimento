@@ -303,6 +303,25 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![monitoramento](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/1.PNG)
  
+ 
+  ![filtros](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/ADICIONAR_REMOVER.PNG)
+  
+  Utilizado para adicionar/remover filtros de senhas.
+  
+  
+  ![transferir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/TRANSFERIR_SENHA.PNG)
+  
+  É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento:
+  
+  
+  ![escolha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/TRANSFERIR_SENHAS.png)
+
+  
+  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CHAMAR_SENHA.PNG)
+  
+  Possível chamar a senha pelo monitoramento de senhas.
+  
+ 
  ### 7. Painel de senhas
  
  O Painel de senha mostra a senha chamada pelo funcionário no monitor para o cliente.
