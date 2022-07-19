@@ -352,9 +352,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   ![ordem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/ORDEM.PNG)
    
     
- **f. Prioridade:** Nível de prioridade do tipo de senhas. **Ex.:** 
+ **f. Prioridade:** Nível de prioridade do tipos de senhas. **Ex.:** Prioridade 9 é o padrão, mas ao utilizar prioridade 1 significa que essa senha tem uma prioridade maior que as demais.
  
- **g. Cor da letra:**
+ **g. Cor da letra:** 
  
  **h. Cor de fundo:**
  
