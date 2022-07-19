@@ -299,6 +299,8 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ### 6. Monitoramento de senhas
  
+ 
+ 
  O Monitoramento de senhas acompanha todas as senhas emitidas no Acsiv.
  
  ![monitoramento](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/1.PNG)
@@ -306,12 +308,12 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
   ![filtros](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/ADICIONAR_REMOVER.PNG)
   
-  Utilizado para adicionar/remover filtros de senhas.
+  * *Adicionar/Remover filtros de senhas:* Utilizado para adicionar/remover todos os filtros de senhas, possibilitando a visualização de todas as senhas do cartório.
   
   
   ![transferir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/TRANSFERIR_SENHA.PNG)
   
-  É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento:
+  * *Transferir senha:* É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento, conforme imagem a seguir:
   
   
   ![escolha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/TRANSFERIR_SENHAS.png)
@@ -319,26 +321,38 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   
   ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CHAMAR_SENHA.PNG)
   
-  Possível chamar a senha pelo monitoramento de senhas.
+  * *Chamar senha:* Possível chamar a senha pelo monitoramento de senhas.
   
  
  ### 7. Painel de senhas
  
- O Painel de senha mostra a senha chamada pelo funcionário no monitor para o cliente.
+ O Painel de senhas tem a funcionalidade de demonstrar no monitor a senha chamada pelo atendente.
  
  ![painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/PAINEL_SENHAS/PAINEL_SENHAS.png)
+ 
  
  ### 8. Tipos de senhas
  
  ![tipos](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS_SENHAS.PNG)
  
- **a. Código:**
- **b. Descrição:**
- **c. Letra:**
+ **a. Código:** Gerado automaticamente pelo sistema, não é possível alterá-lo.
+ 
+ **b. Descrição:** Descrição do tipo da senha. **Ex.:** Normal.
+ 
+ **c. Letra:** Poderá utilizar letra abreviada do tipos de senhas para ser impressa na senha.
+ 
+ 
+   ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
+   
+ 
  **d. Local:**
+ 
  **e. Ordem:**
+ 
  **f. Prioridade:**
+ 
  **g. Cor da letra:**
+ 
  **h. Cor de fundo:**
  
  ![tiposvisu](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS%20DE%20SENHA.PNG)
@@ -348,8 +362,11 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  ![indicadores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/1.PNG)
  
  **a. Dt. inicial:**
+ 
  **b. Dt. final:**
+ 
  **c. Agrupar por:**
+ 
  **d. Relatório:**
  
  ![agrupar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/2.png)
