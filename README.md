@@ -238,9 +238,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **h. Mensagem:** Possível escrever mensagem individualizada por serviço para aparecer no rodapé da senha impressa. **Ex.:** Cartório que trabalha com site, aparecer a seguinte mensagem para serviços de abertura de firma: *Adiante o serviço realizando o pré-cadastro no nosso sistema online, acesse o link abaixo.*
  
- **i. Cor da letra:** Definir a cor da letra do botão apresentado no totem de atendimento.
+ **i. Cor da letra:** Define a cor da letra do botão apresentado no totem de atendimento.
  
- **j. Cor de fundo:** Definir a cor de fundo do botão apresentado no totem de atendimento.
+ **j. Cor de fundo:** Define a cor de fundo do botão apresentado no totem de atendimento.
  
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
@@ -354,9 +354,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
     
  **f. Prioridade:** Nível de prioridade do tipos de senhas. **Ex.:** Prioridade 9 é o padrão, mas ao utilizar prioridade 1 significa que essa senha tem uma prioridade maior que as demais.
  
- **g. Cor da letra:** 
+ **g. Cor da letra:** Possível escolher a cor da letra do botão apresentado no totem de emissão de senhas.
  
- **h. Cor de fundo:**
+ **h. Cor de fundo:** Possível escolher a cor de fundo do botão apresentado no totem de emissão de senhas.
  
  ![tiposvisu](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS%20DE%20SENHA.PNG)
  
@@ -364,26 +364,38 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![indicadores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/1.PNG)
  
- **a. Dt. inicial:**
+ **a. Dt. inicial:** Data inicial automática do dia, mas poderá ser alterada caso necessário.
  
- **b. Dt. final:**
+ **b. Dt. final:** Data final automática do dia, mas poderá ser alterada.
  
- **c. Agrupar por:**
- 
- **d. Relatório:**
+ **c. Agrupar por:** Possível agrupar o relatório por: 
  
  ![agrupar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/2.png)
  
+ **d. Relatório:** Possível filtrar o relatório por:
+ 
+ 
  ![relatorio](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/3.png)
  
- ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/BOTAO_EMAIL.PNG)
  
- ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/BOTAO_PDF.PNG)
- 
- ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/BOTAO_XLS.PNG)
- 
- ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/SEPARADOR_LINHAS.PNG)
+ ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG)
  
  
  
- ![]()
+ ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG)
+ 
+ Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo pdf.
+ 
+ 
+ ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_XLS.PNG)
+ 
+ Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo xls.
+ 
+ 
+ ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/SEPARADOR_LINHAS.PNG)
+ 
+ Utilizado para separar as informações por linhas.
+ 
+ 
+ 
+
