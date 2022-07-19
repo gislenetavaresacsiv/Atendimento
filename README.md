@@ -43,26 +43,35 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   É possível colocar imagem para aparecer de fundo na tela de *Emissão de senhas.*
   
  
+ 
+ 
  ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
  
  Localiza imagem salva em uma pasta do computador.
+ 
  
  ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
  
  É possível capturar uma imagem, caso a câmera esteja configurado no sistema.
  
+ 
  ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
  É possível digitalizar uma imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
+ 
+ 
  
  ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
  
  É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).
  
  
+ 
  ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
  
   Visualiza a imagem.
+ 
+ 
  
  ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG)
 
