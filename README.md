@@ -245,7 +245,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
  
- Utilizado para transferir conta dentro do grupo de senhas. Como demonstrado a seguir, grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta se a necessidade de exclusão. 
+ Utilizado para transferir conta dentro do grupos de senhas. Como demonstrado a seguir, grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
@@ -271,7 +271,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   
   * Salvar XLS: Salva a listagem em XLS.
   
-  * Alterar subtítulo: Altera o subtítulo da listagem. **Ex.:** O nome da listagem se encontra LISTAGEM GRUPOS DE SENHAS, podendo ser alterado como o exemplo a seguir:
+  * Alterar subtítulo: Altera o subtítulo da listagem. **Ex.:** O nome da listagem se encontra LISTAGEM GRUPOS DE SENHAS, podendo ser alterado, como exemplo a seguir:
   
   ![alterar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/ALTERAR_SUBTITULO.PNG)
   
@@ -281,7 +281,8 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   
   ![listagem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/LISTAGEM_ALTERADA.PNG)
   
-  * Separador de linhas: Separa a listagem por linhas, demonstraremos exemplos utilizando e não utilizando o *Separador de linhas.*
+  
+  * Separador de linhas: Separa a listagem por linhas, demonstraremos exemplos, utilizando e não utilizando o *Separador de linhas.*
   
   
    *Sem Separador de linhas:*
