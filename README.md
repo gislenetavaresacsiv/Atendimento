@@ -339,7 +339,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **b. Descrição:** Descrição do tipo da senha. **Ex.:** Normal.
  
- **c. Letra:** Poderá utilizar letra abreviada do tipos de senhas para ser impressa na senha.
+ **c. Letra:** Poderá utilizar letra abreviada do *Tipos de senhas* para ser impressa na senha.
  
  
    ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
