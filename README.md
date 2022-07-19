@@ -347,12 +347,12 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **d. Local:** Possível configurar o guichê/mesa que será responsável por chamar um tipo de senha em específico. **Ex.:** *Guichê 1 - G1; Chamará apenas Tipos de senhas **Normal**, etc.
  
- **e. Ordem:** Ordem que o tipo de senhas será apresentado no totem de emissão de senhas.
+ **e. Ordem:** Ordem de apresentação do *Tipo de senhas* mostrado no totem de emissão de senhas **Ex.:** Tipos de senhas - NORMAL com ordem 1, será o primeiro botão apresentado conforme imagem abaixo:
  
-  ![ordem](![image](https://user-images.githubusercontent.com/98952804/179807274-dc0d4379-2b75-4ed5-aa6a-78fd8d45792a.png)
+  ![ordem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/ORDEM.PNG)
    
     
- **f. Prioridade:**
+ **f. Prioridade:** Nível de prioridade do tipo de senhas. **Ex.:** 
  
  **g. Cor da letra:**
  
