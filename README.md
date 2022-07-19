@@ -345,7 +345,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
    ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
    
  
- **d. Local:**
+ **d. Local:** utilizado para configurar a máquina responsável pelo tipo de senhas. **Ex.:** *Guichê e Mesas, M1;G1;* Toda máquina possível uma configuração local, ela é realizada pelo * Menu Acsiv > Configurações locais >  Identificação local
  
  **e. Ordem:**
  
