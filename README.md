@@ -2,7 +2,7 @@
 
 *Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.*
 
-O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicadores de desempenho dos funcionários.
+O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicadores de desempenho dos funcionários.
 
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
@@ -230,9 +230,9 @@ O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicado
  
  **d. Letra:** Letra demonstrada na senha impressa. **Ex.:** *A.*
  
- **e. Conta superior:** Conta superior do grupo de senhas que foi criado.
+ **e. Conta superior:** Conta superior é encontrada quando estamos criando um subgrupo dela.
  
- **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1;)
+ **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1;, etc.)
  
  **g. Painel:** Utilizado quando o cartório trabalha com mais de um caixa e tenha painéis específicos para cada caixa chamar senhas por serviços, diminuindo filas no cartório. 
  
@@ -245,17 +245,56 @@ O Atendimento gerencia filas e auxilia o cartório ter uma métrica dos indicado
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
  
- Utilizado para transferir conta
+ Utilizado para transferir conta dentro do grupo de senhas. Como demonstrado a seguir, grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta se a necessidade de exclusão. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
  
  
+ Dentro do grupo de senhas é possível emitir listagem para visualizar todas os grupos e subgrupos, basta clicar no botão a seguir:
  
  
- ![listagem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/EMISSAO_LISTAGEM.PNG)
+  ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/VISUALIZAR_LISTAGEM.png)
+  
+  É possível visualizar, imprimir, enviar PDF, Enviar XLS, Salvar como PDF, Salvar como XLS, Alterar subtítulo e utilizar Separador de linhas.
+  
+  
+  * Visualizar: Visualiza a listagem do grupos e subgrupos de senhas na tela.
+  
+  * Imprimir: Possível imprimir a listagem pela impressora.
+  
+  * Enviar PDF: Envia PDF quando a conta de e-mail se encontra configurada.
+  
+  * Enviar XLS: Envia XLS quando a conta de e-mail se encontra configurada.
+  
+  * Salvar PDF: Salva a listagem em PDF.
+  
+  * Salvar XLS: Salva a listagem em XLS.
+  
+  * Alterar subtítulo: Altera o subtítulo da listagem. **Ex.:** O nome da listagem se encontra LISTAGEM GRUPOS DE SENHAS, podendo ser alterado como o exemplo a seguir:
+  
+  ![alterar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/ALTERAR_SUBTITULO.PNG)
+  
+  
+  Após alterar o subtítulo, a listagem será visualizada da seguinte maneira:
+  
+  
+  ![listagem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/LISTAGEM_ALTERADA.PNG)
+  
+  * Separador de linhas: Separa a listagem por linhas, demonstraremos exemplos utilizando e não utilizando o *Separador de linhas.*
+  
+  
+   *Sem Separador de linhas:*
+   
+   ![semseparador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/SEM_SEPARADOR_LINHAS.PNG)
+  
  
- ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/VISUALIZAR_LISTAGEM.png)
+ 
+   *Com Separador de linhas:*
+   
+   ![listagem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/EMISSAO_LISTAGEM.PNG)
+ 
+
  
  ### 6. Monitoramento de senhas
  
