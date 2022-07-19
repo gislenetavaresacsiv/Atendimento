@@ -57,13 +57,14 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
  
- É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
+ É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).
  
- ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
- Visualiza a imagem.
+ ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
  
- ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
+  Visualiza a imagem.
+ 
+ ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG)
 
  Cancela a imagem escolhida.
  
