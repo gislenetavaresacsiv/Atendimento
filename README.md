@@ -52,12 +52,12 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
  
- É possível capturar uma imagem, caso a câmera esteja configurado no sistema.
+ É possível capturar imagem, caso a câmera esteja configurado no sistema.
  
  
  ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
  
- É possível digitalizar uma imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
+ É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
  
  
  
@@ -69,13 +69,13 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
  
-  Visualiza a imagem.
+  Visualiza imagem.
  
  
  
  ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG)
 
- Cancela a imagem escolhida.
+ Cancela imagem escolhida.
  
  
  
@@ -101,7 +101,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   
  
  
-  **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas.*
+  **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas* enquanto a senha não é chamada.
  
  
  
@@ -355,7 +355,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
    ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
    
  
- **d. Local:** Possível configurar o guichê/mesa que será responsável por chamar um tipo de senha em específico. **Ex.:** *Guichê 1 - G1; Chamará apenas Tipos de senhas **Normal**, etc.
+ **d. Local:** Possível configurar o guichê/mesa que será responsável por chamar um tipo de senha em específico. **Ex.:** *Guichê 1 - G1; Chamará apenas Tipos de senhas* **Normal**, etc.
  
  **e. Ordem:** Ordem de apresentação do *Tipo de senhas* mostrado no totem de emissão de senhas **Ex.:** Tipos de senhas - NORMAL com ordem 1, será o primeiro botão apresentado conforme imagem abaixo:
  
