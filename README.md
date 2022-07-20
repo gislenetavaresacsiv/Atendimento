@@ -271,7 +271,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
  
- Utilizado para transferir conta dentro do grupos de senhas. Como demonstrado a seguir, grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
+ Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
