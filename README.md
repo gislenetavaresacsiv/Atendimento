@@ -119,7 +119,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  
  
- *Cores*
+  *Aba Cores*
  
  Utilizado para configurações de cores da tela *Emissão de senhas*.
  
@@ -143,9 +143,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  Mantém o tema do windows como cor.
 
- *Monitoramento*
+ *Aba Monitoramento*
  
- Aba utilizada pelo nosso suporte técnico para monitoramento do painel.
+ Utilizado pelo nosso suporte técnico para monitoramento do painel.
  
  
  ### 2. Chamar senha
