@@ -334,12 +334,12 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
   ![filtros](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/ADICIONAR_REMOVER.PNG)
   
-  * *Adicionar/Remover filtros de senhas:* Utilizado para adicionar/remover todos os filtros de senhas, possibilitando a visualização de todas as senhas do cartório.
+  *Adicionar/Remover filtros de senhas:* Utilizado para adicionar/remover todos os filtros de senhas, possibilitando a visualização de todas as senhas do cartório.
   
   
   ![transferir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/TRANSFERIR_SENHA.PNG)
   
-  * *Transferir senha:* É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento, conforme imagem a seguir:
+  *Transferir senha:* É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento, conforme imagem a seguir:
   
   
   ![escolha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/TRANSFERIR_SENHAS.png)
@@ -347,7 +347,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   
   ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CHAMAR_SENHA.PNG)
   
-  * *Chamar senha:* Possível chamar a senha pelo monitoramento de senhas.
+  *Chamar senha:* Possível chamar a senha pelo monitoramento de senhas.
   
  
  ### 7. Painel de senhas
