@@ -105,26 +105,27 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  Checkbox para definir o *Painel de senhas* como individualizado.
  
+
  
-  *Aba Imagem*
+ 
+  *Imagem*
   
    É possível colocar imagem conforme demonstrado na *Aba Emissão* para aparecer de fundo na tela *Painel de senhas*.
   
  
- 
-  **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas* enquanto a senha não é chamada.
- 
+   **g. GED Slides:** Possível colocar slides para ser apresentado no *Painel de senhas* enquanto a senha não é chamada.
  
  
- 
- 
- ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
  
  
  
  *Cores*
  
  Utilizado para configurações de cores da tela *Emissão de senhas*.
+ 
+ 
+  ![Cores](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/4.PNG)
+ 
  
  **Botão Voltar**
  
