@@ -365,7 +365,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **b. Descrição:** Descrição do tipo da senha. **Ex.:** Normal.
  
- **c. Letra:** Poderá utilizar letra abreviada do *Tipos de senhas* para ser impressa na senha.
+ **c. Letra:** Letra abreviada da descrição do *Tipos de senhas* que será impressa na senha conforme imagem a seguir:
  
  
    ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
@@ -378,13 +378,16 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   ![ordem](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/ORDEM.PNG)
    
     
- **f. Prioridade:** Nível de prioridade do tipos de senhas. **Ex.:** Prioridade 9 é o padrão, mas ao utilizar prioridade 1 significa que essa senha tem uma prioridade maior que as demais.
+ **f. Prioridade:** Nível de prioridade do *Tipos de senhas*. **Ex.:** Prioridade 9 é o padrão, mas ao utilizar prioridade 1 significa que essa senha tem uma prioridade maior que as demais.
+ 
+ ![tiposvisu](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS%20DE%20SENHA.PNG)
+ 
  
  **g. Cor da letra:** Possível escolher a cor da letra do botão apresentado no totem de emissão de senhas.
  
  **h. Cor de fundo:** Possível escolher a cor de fundo do botão apresentado no totem de emissão de senhas.
  
- ![tiposvisu](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/TIPOS%20DE%20SENHA.PNG)
+ 
  
  ### 9. Relatórios
  
@@ -406,6 +409,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG)
  
+ Possível enviar o relatório de indicadores *(R.Indicadores)* por e-mail.
  
  
  ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG)
