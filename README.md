@@ -20,9 +20,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  *Aba Emissão*
  
- **a. Tipo:** Selecione entre os três tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
+ **a. Tipo:** Selecione entre os 3 tipos *(Senha impressa com painel, Rolo destacável com painel, Rolo destacável sem painel)* de acordo com o modelo da senha.
  
- **b. Modelo:** Selecione entre os dois modelos de snha *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
+ **b. Modelo:** Selecione entre os 2 modelos de senha *(Modelo 1 - Mini térmica - 7 cm ou Modelo 2 - Mini térmica - 5 cm)* de acordo com o tamanho do papel.
  
  **c. N° cópias:** Define o número de cópias que será impresso a senha.
  
@@ -32,7 +32,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **f. Prioridade:** Quando o cartório trabalha com *Tipos de senhas* definidas como prioritárias, é necessário configurar a *Prioridade* que a senha será chamada no *Painel de senhas*, nesse exemplo *2/1*, significa que a cada 2 senhas normais, o sistema chama 1 senha prioritária.
  
- **g. Desliga:** Possível configurar o horário para seu Totem de senha desligar.
+ **g. Desliga:** Possível configurar o horário para desligamento automático do Totem de senha.
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/EXIBIR_CURSOR.PNG) 
  
@@ -63,7 +63,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
  
- É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).
+ É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
  
  
  
@@ -81,7 +81,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  ![Painel](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CONFIGURA%C3%87%C3%95ES/3.PNG)
  
- *Painel*
+ *Aba Painel*
  
  **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
@@ -91,11 +91,22 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **e. Desliga:** Possível configurar o horário para desligamento do painel de senha*(TV)*. 
+ **e. Desliga:** Possível configurar o horário para desligamento automático do *Painel de senhas(TV)*. 
  
  **f. Projeção:** Utilizado para definir o left da tela.
  
-  *Imagem*
+ 
+ ![falar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/FALAR_SENHA.PNG)
+ 
+ 
+ Checkbox para definir a fala no *Painel de senhas.*
+ 
+ ![individualizado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/PAINEL_INDIVIDUALIZADO.PNG)
+ 
+ Checkbox para definir o *Painel de senhas* como individualizado.
+ 
+ 
+  *Aba Imagem*
   
    É possível colocar imagem conforme demonstrado na *Aba Emissão* para aparecer de fundo na tela *Painel de senhas*.
   
