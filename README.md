@@ -30,9 +30,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **e. Rodapé:** Possível definir uma mensagem padrão, que será apresentada no rodapé da senha impressa.
  
- **f. Prioridade:**
+ **f. Prioridade:** Quando o cartório trabalha com *Tipos de senhas* definidas como prioritárias, é necessário configurar a *Prioridade* que a senha será chamada no *Painel de senhas*, nesse exemplo *2/1*, significa que a cada 2 senhas normais, o sistema chama 1 senha prioritária.
  
- **g. Desliga:**
+ **g. Desliga:** Possível configurar o horário para seu Totem de senha desligar.
  
  ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/EXIBIR_CURSOR.PNG) 
  
@@ -91,7 +91,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
  
- **e. Desliga:**
+ **e. Desliga:** Possível configurar o horário para desligamento do painel de senha*(TV)*. 
  
  **f. Projeção:** Utilizado para definir o left da tela.
  
