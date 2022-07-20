@@ -93,7 +93,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **e. Desliga:** Possível configurar o horário para desligamento automático do *Painel de senhas(TV)*. 
  
- **f. Projeção:** Utilizado para definir o left da tela.
+ **f. Projeção:** É a posição de tela que ficará o sistema. **Ex.:** Caso o cartório trabalhe com dois monitores*(TV)* em um computador, é possível definir qual tela será projetado o *Painel de senhas*. 
  
  
  ![falar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/FALAR_SENHA.PNG)
