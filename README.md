@@ -151,7 +151,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  ### 2. Chamar senha
  
  
- Botão Chamar, é utilizado para chamar senha retirada pelo cliente na tela emissão de senhas *(Senha retirada via impressora de senha ou totem de atendimento).* 
+ É utilizado para chamar senha retirada pelo cliente na tela emissão de senhas **Ob.:** *(Senha retirada via impressora de senha ou totem de atendimento).* 
  
  O botão chamar, pode ser utilizado pelo *(Menu Atendimento > Chamar senha)  ou pelo (Menu Notas > Balcão de notas pelas opções - chamar próxima senha ou chamar senha específica).*
  
@@ -263,6 +263,10 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  **i. Cor da letra:** Define a cor da letra do botão apresentado no totem de atendimento.
  
  **j. Cor de fundo:** Define a cor de fundo do botão apresentado no totem de atendimento.
+ 
+  ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG)
+  
+  Desativa o grupo criado.
  
  
  ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
