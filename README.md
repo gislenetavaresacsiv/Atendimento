@@ -1,7 +1,10 @@
 # Atendimento
 
 
+
 O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicadores de desempenho dos funcionários.
+
+
 
 
  ![ImagemInicial](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/1.png)
