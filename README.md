@@ -249,7 +249,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG) Desativa o grupo criado.
  
  
- ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) *Transferir conta:* Utilizado para transferir conta dentro dos grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha sido criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão. 
+ ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) *Transferir conta:* Utilizado para transferir conta dentro dos grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha sido criado a conta 1.4 JOÃO, e o correto seria ela pertencer ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão.
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
