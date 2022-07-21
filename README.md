@@ -234,7 +234,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **e. Conta superior:** Conta superior é encontrada quando estamos criando um subgrupo dela.
  
- **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1;, etc.)
+ **f. Local:** É utilizado para identificar a máquina responsável por chamar a senha. **Ex.:** (Guichê e Mesas, pode ser configurado como G1; M1; etc.)
  
  **g. Painel:** Utilizado quando o cartório trabalha com mais de um caixa e tenha painéis específicos para cada caixa chamar senhas por serviços, diminuindo filas no cartório. 
  
