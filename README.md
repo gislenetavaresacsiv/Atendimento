@@ -43,26 +43,26 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  
  
- ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)  Localiza imagem salva em uma pasta do computador.
+ ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG) *Localizar imagem:* Localiza imagem salva em uma pasta do computador.
 
  
  
- ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG) É possível capturar imagem, caso a câmera esteja configurado no sistema.
+ ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG) *Capturar imagem:* É possível capturar imagem, caso a câmera esteja configurado no sistema.
  
  
- ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG) É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
- 
- 
- 
- ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG) É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
+ ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG) *Digitalizar imagem:* É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
  
  
  
- ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG) Visualiza imagem.
+ ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG) *Colar imagem da área de transferência:* É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
  
  
  
- ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG) Cancela imagem escolhida.
+ ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG) *Visualizar arquivo:* Visualiza imagem.
+ 
+ 
+ 
+ ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG) *Cancelar imagem:* Cancela imagem escolhida.
  
  
  
@@ -247,7 +247,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG) Desativa o grupo criado.
  
  
- ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
+ ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) *Transferir conta:* Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
@@ -377,13 +377,13 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  ![relatorio](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/3.png)
  
  
- ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG) Possível enviar o relatório de indicadores *(R.Indicadores)* por e-mail.
+  ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG) *Salvar como PDF:* Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo pdf.
  
  
- ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG) Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo pdf.
+  ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_XLS.PNG) *Salvar como XLS:* Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo xls.
  
  
- ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_XLS.PNG) Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo xls.
+ ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG) *Enviar arquivo por e-mail:* Possível enviar o relatório de indicadores *(R.Indicadores)* por e-mail.
  
  
  ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/SEPARADOR_LINHAS.PNG) Utilizado para separar as informações por linhas.
