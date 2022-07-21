@@ -47,10 +47,10 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
 
  
  
- ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG) *Capturar imagem:* É possível capturar imagem, caso a câmera esteja configurado no sistema.
+ ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG) *Capturar imagem:* É possível capturar imagem, caso a câmera esteja configurada no sistema.
  
  
- ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG) *Digitalizar imagem:* É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
+ ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG) *Digitalizar imagem:* É possível digitalizar imagem que esteja dentro da impressora, caso a mesma já esteja configurada no sistema.
  
  
  
@@ -70,15 +70,15 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  *Aba Painel*
  
- **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
- **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentadas no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentadas no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
- **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição do logo apresentado no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
- **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo do logo apresentado no *Painel de senhas*. *(Centralizado, Esquerda central, Esquerda borda, Direita central e Direita borda)*
+ **d. Tipo logo:** Selecione entre as 5 opções de alinhamento do tipo do logo apresentado no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
- **e. Desliga:** Possível configurar o horário para desligamento automático do *Painel de senhas(TV)*. 
+ **e. Desliga:** Possível configurar o horário para desligamento automático do *Painel de senhas (TV)*. 
  
  **f. Projeção:** É a posição de tela que ficará o sistema. **Ex.:** Caso o cartório trabalhe com dois monitores*(TV)* em um computador, é possível definir qual tela será projetado o *Painel de senhas*. 
  
@@ -121,7 +121,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  *Cor 2:* Cor do texto apresentado na parte inferior da tela **Ex.:** *Desenvolvido por Acsiv Sistemas*.
  
- ![manter](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/MANTER_TEMA_WINDOWS.PNG) Mantém o tema do windows como cor.
+ ![manter](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/MANTER_TEMA_WINDOWS.PNG) Mantém o tema do Windows como cor.
 
  *Aba Monitoramento*
  
@@ -247,7 +247,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
   ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG) Desativa o grupo criado.
  
  
- ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) *Transferir conta:* Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
+ ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) *Transferir conta:* Utilizado para transferir conta dentro dos grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha sido criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
@@ -258,10 +258,10 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
   ![visualizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/VISUALIZAR_LISTAGEM.png)
   
-  É possível visualizar, imprimir, enviar PDF, Enviar XLS, Salvar como PDF, Salvar como XLS, Alterar subtítulo e utilizar Separador de linhas.
+  É possível visualizar, imprimir, enviar PDF, enviar XLS, salvar como PDF, salvar como XLS, alterar subtítulo e utilizar separador de linhas.
   
   
-  * Visualizar: Visualiza a listagem do grupos e subgrupos de senhas na tela.
+  * Visualizar: Visualiza a listagem dos grupos e subgrupos de senhas na tela.
   
   * Imprimir: Possível imprimir a listagem pela impressora.
   
@@ -341,7 +341,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
    ![letra](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/TIPOS_SENHAS/5.png)
    
  
- **d. Local:** Possível configurar o guichê/mesa que será responsável por chamar um tipo de senha em específico. **Ex.:** *Guichê 1 - G1; Chamará apenas Tipos de senhas* **Normal**, etc.
+ **d. Local:** Possível configurar o guichê/mesa que será responsável por chamar um tipo de senha em específico. **Ex.:** *Guichê 1 - G1; chamará apenas Tipos de senhas* **Normal**, etc.
  
  **e. Ordem:** Ordem de apresentação do *Tipo de senhas* mostrado no totem de emissão de senhas **Ex.:** Tipos de senhas - NORMAL com ordem 1, será o primeiro botão apresentado conforme imagem abaixo:
  
