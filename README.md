@@ -34,9 +34,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **g. Desliga:** Possível configurar o horário para desligamento automático do Totem de senha.
  
- ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/EXIBIR_CURSOR.PNG) 
- 
-  Exibe o cursor do mouse na tela *Painel de senhas*.
+ ![exibir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/EXIBIR_CURSOR.PNG) Exibe o cursor do mouse na tela *Painel de senhas*.
  
  *Imagem*
  
@@ -45,37 +43,26 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  
  
- ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)
- 
- Localiza imagem salva em uma pasta do computador.
- 
- 
- ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG)
- 
- É possível capturar imagem, caso a câmera esteja configurado no sistema.
- 
- 
- ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG)
- 
- É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
- 
- 
- 
- ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG)
- 
- É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
- 
- 
- 
- ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG)
- 
-  Visualiza imagem.
- 
- 
- 
- ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG)
+ ![binoculo](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BINOCULO.PNG)  Localiza imagem salva em uma pasta do computador.
 
- Cancela imagem escolhida.
+ 
+ 
+ ![camera](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CAMERA.PNG) É possível capturar imagem, caso a câmera esteja configurado no sistema.
+ 
+ 
+ ![digitalizar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/DIGITALIZAR.PNG) É possível digitalizar imagem que esteja dentro da sua scanner *(impressora)*, caso a mesma já esteja configurada no sistema.
+ 
+ 
+ 
+ ![colar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/COLAR.PNG) É possível colar imagem da área de transferência *(Botão invertido para capturar imagem).*
+ 
+ 
+ 
+ ![visualiza](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/VISUALIZAR.PNG) Visualiza imagem.
+ 
+ 
+ 
+ ![cancelar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CANCELAR.PNG) Cancela imagem escolhida.
  
  
  
@@ -96,14 +83,9 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  **f. Projeção:** É a posição de tela que ficará o sistema. **Ex.:** Caso o cartório trabalhe com dois monitores*(TV)* em um computador, é possível definir qual tela será projetado o *Painel de senhas*. 
  
  
- ![falar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/FALAR_SENHA.PNG)
+ ![falar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/FALAR_SENHA.PNG) Checkbox para definir a fala no *Painel de senhas.*
  
- 
- Checkbox para definir a fala no *Painel de senhas.*
- 
- ![individualizado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/PAINEL_INDIVIDUALIZADO.PNG)
- 
- Checkbox para definir o *Painel de senhas* como individualizado.
+ ![individualizado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/PAINEL_INDIVIDUALIZADO.PNG) Checkbox para definir o *Painel de senhas* como individualizado.
  
 
  
@@ -139,9 +121,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  *Cor 2:* Cor do texto apresentado na parte inferior da tela **Ex.:** *Desenvolvido por Acsiv Sistemas*.
  
- ![manter](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/MANTER_TEMA_WINDOWS.PNG)
- 
- Mantém o tema do windows como cor.
+ ![manter](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/MANTER_TEMA_WINDOWS.PNG) Mantém o tema do windows como cor.
 
  *Aba Monitoramento*
  
@@ -264,14 +244,10 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **j. Cor de fundo:** Define a cor de fundo do botão apresentado no totem de atendimento.
  
-  ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG)
-  
-  Desativa o grupo criado.
+  ![desativado](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/DESATIVADO.PNG) Desativa o grupo criado.
  
  
- ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG)
- 
- Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
+ ![botao](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_TRANSFERIR.PNG) Utilizado para transferir conta dentro do grupos de senhas. **Ex.:** grupo 1.NOTAS com seus subgrupos 1.1. AUTENTICAÇÃO - A, 1.2 RECONHECIMENTO E 1.3. ESCRITURAS, caso tenha criado a conta 1.4 JOÃO, mas a mesma pertence ao grupo 3, o sistema permite realizar a transferência para a conta correta sem a necessidade de exclusão da conta grupo criada. 
  
  
  ![grupossenhas](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/GRUPOS_SENHAS/2.PNG)
@@ -332,22 +308,16 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  ![monitoramento](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/1.PNG)
  
  
-  ![filtros](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/ADICIONAR_REMOVER.PNG)
-  
-  *Adicionar/Remover filtros de senhas:* Utilizado para adicionar/remover todos os filtros de senhas, possibilitando a visualização de todas as senhas do cartório.
+  ![filtros](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/ADICIONAR_REMOVER.PNG)  *Adicionar/Remover filtros de senhas:* Utilizado para adicionar/remover todos os filtros de senhas, possibilitando a visualização de todas as senhas do cartório.
   
   
-  ![transferir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/TRANSFERIR_SENHA.PNG)
-  
-  *Transferir senha:* É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento, conforme imagem a seguir:
+  ![transferir](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/TRANSFERIR_SENHA.PNG) *Transferir senha:* É possível transferir a senha selecionada para outro atendente, basta selecionar o guichê ou mesa que deseja transferir o atendimento, conforme imagem a seguir:
   
   
   ![escolha](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/MONITORAMENTO_SENHAS/TRANSFERIR_SENHAS.png)
 
   
-  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CHAMAR_SENHA.PNG)
-  
-  *Chamar senha:* Possível chamar a senha pelo monitoramento de senhas.
+  ![chamar](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/CHAMAR_SENHA.PNG)  *Chamar senha:* Possível chamar a senha pelo monitoramento de senhas.
   
  
  ### 7. Painel de senhas
@@ -407,24 +377,16 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  ![relatorio](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/RELATORIOS/3.png)
  
  
- ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG)
- 
- Possível enviar o relatório de indicadores *(R.Indicadores)* por e-mail.
+ ![botaoemail](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_EMAIL.PNG) Possível enviar o relatório de indicadores *(R.Indicadores)* por e-mail.
  
  
- ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG)
- 
- Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo pdf.
+ ![botaopdf](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_PDF.PNG) Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo pdf.
  
  
- ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_XLS.PNG)
- 
- Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo xls.
+ ![botaoxlx](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/Botoes/BOTAO_XLS.PNG) Possível salvar o relatório de indicadores *(R.Indicadores)* em arquivo xls.
  
  
- ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/SEPARADOR_LINHAS.PNG)
- 
- Utilizado para separar as informações por linhas.
+ ![separador](https://github.com/gislenetavaresacsiv/Atendimento/blob/main/Imagens/CHECKBOX/SEPARADOR_LINHAS.PNG) Utilizado para separar as informações por linhas.
  
  
  
