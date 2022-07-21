@@ -74,7 +74,7 @@ O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicador
  
  **a. Senha atual:** Selecione entre as 5 opções de alinhamento da senha atual apresentada no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
- **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento da senhas anteriores apresentadas no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
+ **b. Senhas ant.:** Selecione entre as 5 opções de alinhamento das senhas anteriores apresentadas no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
  **c. Posição logo:** Selecione entre as 5 opções de alinhamento da posição do logo apresentado no *Painel de senhas*. *(Centralizado, esquerda central, esquerda borda, direita central e direita borda)*
  
