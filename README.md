@@ -1,6 +1,5 @@
 # Atendimento
 
-*Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, entre em contato com nosso suporte técnico para solicitar configuração.*
 
 O Atendimento gerencia filas e auxilia cartórios ter uma métrica dos indicadores de desempenho dos funcionários.
 
